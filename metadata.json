@@ -1,0 +1,6 @@
+{
+  "name": "ROBIN GUARD - Proof-of-Work NFT Mining",
+  "description": "Proof-of-Work NFT mining and $GUARD staking protocol on Robinhood Chain with 8-bit retro terminal aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
